@@ -1,0 +1,9 @@
+É possível ter apenas uma única instância de uma classe em todo o programa.
+
+Método Singleton
+|   |	|
+|   |	|
+|   |	|
+|   |	|---------->Construtor Privado
+|   |--------------->Váriavel da classe priada de forma estática
+|------------------->Método publico e estático que reotrna a variável estática privada
